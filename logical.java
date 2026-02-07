@@ -6,5 +6,6 @@ public class logical {
         System.out.println(a<b&&b>10);
         System.out.println(a>b||b>a);
         System.out.println(~a);
+        System.out.println(~b);
     }
 }
